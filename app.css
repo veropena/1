@@ -10,14 +10,14 @@
 
 :root {
   /* Font Size */
-  --fg-primary: 10vh; /* Time and Greetings */
+  --fg-primary: 9vh; /* Time and Greetings */
   --fg-secondary: 2vh; /* Greetings and Weather widger */
-  --fg-date: 6vh; /* Date */
+  --fg-date: 5vh; /* Date */
   --fg-list: 2vh; /* Links List */
   --icon: 2vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: #3a3a3a; /* Foreground color */
+  --fg: #4d4b4b; /* Foreground color */
   --sfg: #494949; /* Sceondary Foreground color */
 
   /* Light Colors  */
@@ -40,7 +40,7 @@
   --cards: #050505; /* Cards color */
 
   /* Fonts Color */
-  --fg: #968383; /* Foreground color */
+  --fg: #a69898; /* Foreground color */
   --sfg: #2c292e; /* Secondary Foreground color */
 
   /* Image background  */
