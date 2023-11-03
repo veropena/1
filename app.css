@@ -10,11 +10,11 @@
 
 :root {
   /* Font Size */
-  --fg-primary: 12vh; /* Time and Greetings */
-  --fg-secondary: 3vh; /* Greetings and Weather widger */
-  --fg-date: 8vh; /* Date */
+  --fg-primary: 10vh; /* Time and Greetings */
+  --fg-secondary: 2vh; /* Greetings and Weather widger */
+  --fg-date: 6vh; /* Date */
   --fg-list: 2vh; /* Links List */
-  --icon: 3vh; /* Icon Size */
+  --icon: 2vh; /* Icon Size */
 
   /* Fonts Color */
   --fg: #3a3a3a; /* Foreground color */
@@ -36,11 +36,11 @@
 .darktheme {
   /* Dark Colors  */
   --accent: #57a0d9; /* Hover color */
-  --background: #19171a; /* Background color */
-  --cards: #201e21; /* Cards color */
+  --background: #121112; /* Background color */
+  --cards: #050505; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
+  --fg: #968383; /* Foreground color */
   --sfg: #2c292e; /* Secondary Foreground color */
 
   /* Image background  */
